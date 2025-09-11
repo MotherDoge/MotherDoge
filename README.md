@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @MotherDoge
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning it to make work easier
-- 💞️ I’m looking to collaborate on analytics projects using Python
 - 📫 How to reach me - on LinkedIn!
 
 <!---
