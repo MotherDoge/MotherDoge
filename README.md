@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MotherDoge
-- 📫 How to reach me - on LinkedIn!
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/rahul-v-j/) and [Substack](https://capyduck.substack.com/)
 
 <!---
 MotherDoge/MotherDoge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
