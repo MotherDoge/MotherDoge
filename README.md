@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul
+- 👋 Hi, I’m Rahul Joseph _(I also go by Rahul V J)_
   
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/rahul-v-j/) and [Substack](https://capyduck.substack.com/)
 
