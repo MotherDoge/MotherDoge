@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @MotherDoge
+- 👋 Hi, I’m Rahul
+  
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/rahul-v-j/) and [Substack](https://capyduck.substack.com/)
 
 <!---
